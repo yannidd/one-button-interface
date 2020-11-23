@@ -1,0 +1,10 @@
+Reference, Quantity, Value, Footprint, Datasheet, RS Stock No., Vendor
+C1 C2 C3 C5 ,4,"1uF","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~","461-2708","RS"
+C4 ,1,"0.1uF","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~","264-4630","RS"
+H1 H2 H3 H4 ,4,"MountingHole","one_button_interface:MountingHole_M1.6","~"
+J1 ,1,"Conn_01x02","Connector_JST:JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal","https://docs.rs-online.com/cb9d/0900766b81347511.pdf","820-1494","RS"
+J6 ,1,"Conn_01x04","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical","https://docs.rs-online.com/cd6a/0900766b813c4c2e.pdf","360-6314","RS"
+R1 ,1,"10K","Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","~","182-9211","RS"
+SW1 ,1,"PTS645SL50SMTR 92 LFS","Button_Switch_SMD:SW_SPST_PTS645","https://docs.rs-online.com/62d0/0900766b815a8e9b.pdf","135-9400","RS"
+U1 ,1,"LD39015M33R","Package_TO_SOT_SMD:SOT-23-5","http://www.st.com/resource/en/datasheet/ld39015.pdf","795-8965","RS"
+U2 ,1,"STM6600","Package_DFN_QFN:TDFN-12_2x3mm_P0.5mm","http://www.st.com/resource/en/datasheet/stm6600.pdf","189-2069","RS"
